@@ -16,4 +16,8 @@ def polygon(t, n, length):
         t.lt(angle)
 
 polygon(bob, 8, 100)
+bob.hideturtle()
+
 turtle.mainloop()
+turtle.done()
+
